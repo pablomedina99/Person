@@ -1,1 +1,2 @@
 Este va a ser el manual de mi programa 2.0
+"Ahora este fichero es version 3.0" 
